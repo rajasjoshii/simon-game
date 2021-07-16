@@ -1,3 +1,2 @@
 # simon-game
-
-https://simoon-game.herokuapp.com/
+https://simon-gamee.herokuapp.com/
